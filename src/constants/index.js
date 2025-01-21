@@ -87,10 +87,10 @@ import {
       name: "Flask",
       icon: flask,
     },
-    {
-      name: "Django",
-      icon: django,
-    },
+    // {
+    //   name: "Django",
+    //   icon: django,
+    // },
     {
       name: "Three JS",
       icon: threejs,
