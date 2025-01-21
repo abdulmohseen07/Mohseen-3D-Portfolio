@@ -24,7 +24,7 @@ import {
     Sharebite,
     threejs,
     flask,
-    django,
+    // django,
   } from "../assets";
   
   export const navLinks = [
