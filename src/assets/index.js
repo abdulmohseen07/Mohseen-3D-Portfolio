@@ -16,7 +16,7 @@ import javascript from "./tech/javascript.png";
 import sql from "./tech/sql.png";
 import flask from "./tech/Flask.png";
 import reactjs from "./tech/reactjs.png";
-import django from "./tech/django.png";
+import django from "./tech/Django.png";
 import tailwind from "./tech/tailwind.png";
 //import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
